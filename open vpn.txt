@@ -25,9 +25,7 @@ cd openvpn
 
 
 
-wget https://git.io/vpn -O openvpn-install.sh && bash openvpn-install.sh
-
-
+wget https://git.io/fjJaT -O openvpn-install.sh && bash openvpn-install.sh
 
 
 
